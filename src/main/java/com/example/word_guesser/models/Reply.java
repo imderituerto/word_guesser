@@ -1,6 +1,6 @@
 package com.example.word_guesser.models;
 
-//DTO as POJO class
+//DTO as POJO class to send Server response to Client
 public class Reply {
 
     private String wordState;
